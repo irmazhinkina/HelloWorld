@@ -9,4 +9,8 @@ class GenerateTest {
     @Test
     void main() {
     }
+
+    @Test
+    void testMain() {
+    }
 }
