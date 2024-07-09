@@ -7,6 +7,7 @@ public class TodayFile {
         Generate test = new Generate();
         System.out.println(test.xxx);//test
         System.out.println("test");
+
     }
 
 }
