@@ -1,7 +1,7 @@
 package org.example;
 
 class Generate {
-    int xxx = 5;
+    int xxx = 6;
 
     public Generate(int xxx) {
         this.xxx = xxx;
