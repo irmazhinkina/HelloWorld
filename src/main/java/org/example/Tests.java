@@ -6,7 +6,7 @@ public class Tests {
 
         public static void main(String[] args) {
             Generate test = new Generate();
-            System.out.println(test.xxx);//test
+            System.out.println(test.xxx);//tes
             System.out.println("test");
 
         }
