@@ -14,7 +14,7 @@ class Generate {
 
     public static void main(String[] args) {
         Generate test = new Generate();
-        System.out.println(test.xxx);//test1
+        System.out.println(test.xxx);//test1344
         System.out.println("test1");
     }
 }
