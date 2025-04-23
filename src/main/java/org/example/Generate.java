@@ -7,6 +7,7 @@ class Generate {
         this.xxx = xxx;
         int x = 1;
         x += 2;
+
     }
 
     public Generate() {
